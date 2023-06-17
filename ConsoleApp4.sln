@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4", "ConsoleApp4.csproj", "{1C01F953-A30D-472F-8A75-9BC3FC032733}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{609CC0B5-0BA4-43AE-9AD3-50D0C1B963B3}"
+	ProjectSection(SolutionItems) = preProject
+		Calcparse.csproj = Calcparse.csproj
+		Expr.g4 = Expr.g4
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C01F953-A30D-472F-8A75-9BC3FC032733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C01F953-A30D-472F-8A75-9BC3FC032733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C01F953-A30D-472F-8A75-9BC3FC032733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C01F953-A30D-472F-8A75-9BC3FC032733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8262B11-5C0C-4EE4-916A-DF6B4C87B627}
+	EndGlobalSection
+EndGlobal
